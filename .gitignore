@@ -9,3 +9,6 @@
 *.pptx
 *.xls
 *.csv
+*.xlsx
+bigdata/.ipynb_checkpoints
+__pycache__
