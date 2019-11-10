@@ -10,5 +10,5 @@
 *.xls
 *.csv
 *.xlsx
-bigdata/.ipynb_checkpoints
+.ipynb_checkpoints
 __pycache__
